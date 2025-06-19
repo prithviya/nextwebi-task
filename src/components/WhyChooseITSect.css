@@ -1,0 +1,20 @@
+.why-swiper {
+    padding: 10px 0;
+}
+
+.service-slide {
+    transition: transform 0.3s ease;
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+
+.swiper-slide-active .service-slide {
+    border-left: 2px solid #007bff;
+    background-color: #f3faff;
+}
+.bg-limited
+{
+    background-image: url('../assets/limited.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
